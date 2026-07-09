@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.4.12"
+  version: "0.4.13"
 
 package:
   name: smg-grpc-proto
@@ -9,7 +9,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/s/smg-grpc-proto/smg_grpc_proto-${{ version }}.tar.gz
-    sha256: b7fa9249d5394f458659e355bbbea3a84ee72467b12148c653c2108c301a03e5
+    sha256: 1df2b1fbfe2cee64a304edb7d32599f7bfdcba56568fe34d7fc9cd89960d3b6b
   - url: https://raw.githubusercontent.com/lightseekorg/smg/main/LICENSE
     sha256: be6e05da66141329ef9b092cf9561889baea1aa630576907dda3ec214f8da4eb
 
